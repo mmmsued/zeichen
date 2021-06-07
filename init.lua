@@ -41,6 +41,7 @@ local alle_zeichen = {
 	{"za7", "Zahl 7"},
 	{"za8", "Zahl 8"},
 	{"za9", "Zahl 9"},
+	{"zbBlank", "Blank"},
 	{"zeAmpersand", "Ampersand"},
 	{"zeAnfuehrungszeichen", "Anführungszeichen"},
 	{"zeAsterik", "Asterik"},
