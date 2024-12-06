@@ -1,5 +1,5 @@
 # Zeichen Mod
-![Zeichen Mod](https://github.com/mmmsued/zeichen)
+[Zeichen Mod](https://github.com/mmmsued/zeichen)
 
 Der Mod »Zeichen« enthält Buchstaben (auch deutsche Sonderzeichen), die Zahlen 0-9 und diverse Satz- und andere Zeichen. Abhängigkeiten: default.
 
